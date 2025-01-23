@@ -1,0 +1,34 @@
+title: GitWorking
+subtitle: Celodenní git workshop pro úplné začátečníky
+time: 08:30–18:00
+default_time:
+  start: '08:30'
+  end: '18:00'
+place: Red Hat, budova B, Purkyňova 665/115, Brno
+description: Git pro začátečnice a začátečníky, základní znalost Pythonu výhodou
+long_description: |
+    Umíš základy Pythonu (například ze začátečnického kurzu PyLadies), ale chceš se přiučit něco o gitu?
+
+    Tento workshop je pro všechny, kteří jsou pokročilejší začátečníci – umí pracovat s příkazovou řádkou zhruba na úrovni absolventek začátečnického kurzu PyLadies, vědí, jak fungují soubory na počítači a že se do nich píše zdrojový kód.
+    Budeme používat Python, ale o programování tolik nepůjde.
+
+vars:
+  pyladies: true
+  coach-present: true
+  user-gender: f
+
+plan:
+- title: Git
+  slug: git
+  date: 2025-02-01
+  materials:
+  - lesson: git/install
+  - title: Základy Gitu
+    lesson: git/basics
+  - lesson: git/ignoring
+  - lesson: git/branching
+  - lesson: git/collaboration
+  - title: Tahák na git
+    url: https://pyvec.github.io/cheatsheets/basic-git/basic-git-cs.pdf
+  - title: Projekt „Receptář“
+    url: https://github.com/hroncok/receptar
