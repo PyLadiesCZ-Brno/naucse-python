@@ -1,0 +1,56 @@
+title: Python a jeho knihovny
+subtitle: Brno - jaro 2025 - pondělí
+time: 18:00–20:30
+place: Fakulta Informatiky MUNI, Botanická 554/68a, místnost S505
+default_time:
+  start: '18:00'
+  end: '20:30'
+timezone: Europe/Prague
+description: Pokračovací kurz knihovny a data
+long_description: |
+    Další oblasti Pythonu, které se do začátačnického nevešly. Kapitoly pro práci s daty.
+vars:
+  pyladies: true
+  coach-present: true
+  user-gender: f
+
+plan:
+- slug: cykly
+  title: 'Opakování cyklů, comprehensions'
+  date: 2025-02-17
+
+- slug: parametry
+  title: 'Parametry příkazové řádky'
+  date: 2025-02-24
+
+- slug: data
+  title: 'Úvod do datové analýzy'
+  date: 2025-03-03
+
+- slug: github
+  title: 'Github a pull requesty'
+  date: 2025-03-10
+
+- slug: pandas
+  title: 'Pandas'
+  date: 2025-03-17
+
+- slug: sql
+  title: 'SQL'
+  date: 2025-03-24
+
+- slug: regexp
+  title: 'Regulární výrazy'
+  date: 2025-03-31
+
+- slug: api
+  title: 'API'
+  date: 2025-04-07
+
+- slug: webscraping
+  title: 'Webscraping (Selenium)'
+  date: 2025-04-14
+
+- slug: vizualizace
+  title: 'Vizualizace'
+  date: 2025-04-28
