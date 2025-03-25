@@ -27,20 +27,20 @@ plan:
   title: 'Úvod do datové analýzy'
   date: 2025-03-03
 
-- slug: github
-  title: 'Github a pull requesty'
-  date: 2025-03-10
-
 - slug: pandas
   title: 'Pandas'
-  date: 2025-03-17
+  date: 2025-03-10
 
 - slug: sql
   title: 'SQL'
+  date: 2025-03-17
+
+- slug: github
+  title: 'Github a pull requesty'
   date: 2025-03-24
 
-- slug: regexp
-  title: 'Regulární výrazy'
+- slug: github-pokracovani
+  title: 'Github a pull requesty pokračování'
   date: 2025-03-31
 
 - slug: api
@@ -54,3 +54,7 @@ plan:
 - slug: vizualizace
   title: 'Vizualizace'
   date: 2025-04-28
+
+- slug: regexp
+  title: 'Regulární výrazy'
+  date: 2025-05-05
