@@ -41,30 +41,30 @@
             {
                 "date": "2025-03-10",
                 "serial": "4",
-                "slug": "github",
-                "source_file": "courses/2025-brno-jaro-pondeli.yml",
-                "title": "Github a pull requesty"
-            },
-            {
-                "date": "2025-03-17",
-                "serial": "5",
                 "slug": "pandas",
                 "source_file": "courses/2025-brno-jaro-pondeli.yml",
                 "title": "Pandas"
             },
             {
-                "date": "2025-03-24",
-                "serial": "6",
+                "date": "2025-03-17",
+                "serial": "5",
                 "slug": "sql",
                 "source_file": "courses/2025-brno-jaro-pondeli.yml",
                 "title": "SQL"
             },
             {
+                "date": "2025-03-24",
+                "serial": "6",
+                "slug": "github",
+                "source_file": "courses/2025-brno-jaro-pondeli.yml",
+                "title": "Github a pull requesty"
+            },
+            {
                 "date": "2025-03-31",
                 "serial": "7",
-                "slug": "regexp",
+                "slug": "github-pokracovani",
                 "source_file": "courses/2025-brno-jaro-pondeli.yml",
-                "title": "Regulární výrazy"
+                "title": "Github a pull requesty pokračování"
             },
             {
                 "date": "2025-04-07",
@@ -86,6 +86,13 @@
                 "slug": "vizualizace",
                 "source_file": "courses/2025-brno-jaro-pondeli.yml",
                 "title": "Vizualizace"
+            },
+            {
+                "date": "2025-05-05",
+                "serial": "11",
+                "slug": "regexp",
+                "source_file": "courses/2025-brno-jaro-pondeli.yml",
+                "title": "Regulární výrazy"
             }
         ],
         "source_file": "courses/2025-brno-jaro-pondeli.yml",
