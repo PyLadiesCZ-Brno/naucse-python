@@ -43,18 +43,26 @@ plan:
   title: 'Github a pull requesty pokračování'
   date: 2025-03-31
 
-- slug: api
-  title: 'API'
+- slug: sql-pokracovani
+  title: 'SQL pokračování'
   date: 2025-04-07
-
-- slug: webscraping
-  title: 'Webscraping (Selenium)'
-  date: 2025-04-14
-
-- slug: vizualizace
-  title: 'Vizualizace'
-  date: 2025-04-28
 
 - slug: regexp
   title: 'Regulární výrazy'
+  date: 2025-04-14
+
+- slug: api
+  title: 'API'
+  date: 2025-04-28
+
+- slug: webscraping
+  title: 'Webscraping (Selenium)'
   date: 2025-05-05
+
+- slug: tba
+  title: 'Téma ještě nebylo zvoleno'
+  date: 2025-05-12
+
+- slug: vizualizace
+  title: 'Vizualizace'
+  date: 2025-05-19
