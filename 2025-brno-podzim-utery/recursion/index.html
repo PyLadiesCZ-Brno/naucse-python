@@ -5,7 +5,7 @@
 kdy funkce volá sebe sama.</p>
 <p>Taková rekurze skončí nekonečným voláním.
 Když zadáš tento program:</p>
-<div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">rekurzivni_funkce</span><span class="p">():</span>
+<div class="highlight"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">rekurzivni_funkce</span><span class="p">():</span>
     <span class="n">vysledek</span> <span class="o">=</span> <span class="o">...</span>
     <span class="n">rekurzivni_funkce</span><span class="p">()</span>
     <span class="k">return</span> <span class="n">vysledek</span>
@@ -72,7 +72,7 @@ Jeden způsob je si počítat, kolikrát se ještě „zanořit“.</p>
 </li>
 </ul>
 <p>Neboli v Pythonu:</p>
-<div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">pruzkum</span><span class="p">(</span><span class="n">hloubka</span><span class="p">):</span>
+<div class="highlight"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">pruzkum</span><span class="p">(</span><span class="n">hloubka</span><span class="p">):</span>
     <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Rozhlížím se v hloubce </span><span class="si">{</span><span class="n">hloubka</span><span class="si">}</span><span class="s1"> m&#39;</span><span class="p">)</span>
 
     <span class="k">if</span> <span class="n">hloubka</span> <span class="o">&gt;=</span> <span class="mi">30</span><span class="p">:</span>
@@ -141,7 +141,7 @@ matematici definují takto:</p>
 <li>Pro kladná <var>x</var> je <var>x</var>! = <var>x</var> · (<var>x</var> - 1)!</li>
 </ul>
 <p>Neboli v Pythonu:</p>
-<div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">factorial</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
+<div class="highlight"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">factorial</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
     <span class="k">if</span> <span class="n">x</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
         <span class="k">return</span> <span class="mi">1</span>
     <span class="k">elif</span> <span class="n">x</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
