@@ -9,7 +9,7 @@ Zkontroluj si, že ti na začátku příkazové řádky svítí <code>(venv)</co
 <span class="go">Type &quot;help&quot;, &quot;copyright&quot;, &quot;credits&quot; or &quot;license&quot; for more information.</span>
 <span class="go">&gt;&gt;&gt;</span>
 </pre></div><p>Příkaz vypíše několik informací. Z prvního řádku se můžeš ujistit, že používáš Python 3.
-(Verze by měla být <code>3.6</code> nebo vyšší. Vidíš-li číslo jako <code>2.7.11</code>, něco je špatně – popros o radu kouče.)
+(Verze by měla být <code>3.11</code> nebo vyšší. Vidíš-li číslo jako <code>2.7.11</code>, něco je špatně – popros o radu kouče.)
 Další řádek je informační: Python má k dispozici návody a informace sám o sobě,
 ale jsou psané v angličtině a pro trochu pokročilejší publikum.</p>
 <p>Třemi „zobáčky“ <code>&gt;&gt;&gt;</code> pak Python poprosí o instrukce.
@@ -19,7 +19,8 @@ ačkoli okýnko vypadá skoro stejně.
 Vyzkoušej si to. Za „zobáčky“ napiš <code>whoami</code> a zmáčkni Enter:</p>
 <div class="highlight"><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="n">whoami</span>
 <span class="gt">Traceback (most recent call last):</span>
-  File <span class="nb">&quot;&lt;stdin&gt;&quot;</span>, line <span class="m">1</span>, in <span class="n">&lt;module&gt;</span>
+  File <span class="nb">&quot;&lt;python-input-0&gt;&quot;</span>, line <span class="m">1</span>, in <span class="n">&lt;module&gt;</span>
+<span class="w">    </span><span class="n">whoami</span>
 <span class="gr">NameError</span>: <span class="n">name &#39;whoami&#39; is not defined</span>
 </pre></div><p>Tohle je <em>chybová hláška</em>, která se objeví vždycky,
 když Python nebude spokojený.
@@ -55,7 +56,7 @@ objeví, i když vyjde číslo celé:</p>
 <div class="highlight"><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="mi">4</span> <span class="o">/</span> <span class="mi">2</span>
 <span class="go">2.0</span>
 </pre></div><p>Občas se hodí použít dělení se zbytkem, kdy výsledek zůstane jako celé číslo.
-Na to má Python operátory <code>//</code> (podíl) a <code>%</code> (zbytek):</p>
+Na to má Python operátory <code>//</code> (podíl) a <code>%</code> (zbytek, neboli modulo):</p>
 <div class="highlight"><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="mi">5</span> <span class="o">//</span> <span class="mi">2</span>
 <span class="go">2</span>
 <span class="gp">&gt;&gt;&gt; </span><span class="mi">5</span> <span class="o">%</span> <span class="mi">2</span>
