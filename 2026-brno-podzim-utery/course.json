@@ -2257,7 +2257,8 @@
                         "type": "cheatsheet"
                     },
                     {
-                        "title": "Projekty (✊✌✋) - odkaz bude doplněn",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2026-brno-podzim-utery&session=preparation",
+                        "title": "Projekty (✊✌✋)",
                         "type": "homework"
                     }
                 ],
@@ -2332,7 +2333,8 @@
                         "type": "special"
                     },
                     {
-                        "title": "Projekty (✊✌✋) - odkaz bude doplněn",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2026-brno-podzim-utery&session=expressions",
+                        "title": "Projekty (✊✌✋)",
                         "type": "homework"
                     }
                 ],
@@ -2402,7 +2404,8 @@
                         "type": "cheatsheet"
                     },
                     {
-                        "title": "Projekty (✊✌✋) - odkaz bude doplněn",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2026-brno-podzim-utery&session=loops",
+                        "title": "Projekty (✊✌✋)",
                         "type": "homework"
                     }
                 ],
@@ -2492,7 +2495,8 @@
                         "type": "cheatsheet"
                     },
                     {
-                        "title": "Projekty (✊✌✋) - odkaz bude doplněn",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2026-brno-podzim-utery&session=str",
+                        "title": "Projekty (✊✌✋)",
                         "type": "homework"
                     }
                 ],
@@ -2572,7 +2576,8 @@
                         "type": "none-link"
                     },
                     {
-                        "title": "Projekty - odkaz bude doplněn",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2026-brno-podzim-utery&session=def",
+                        "title": "Projekty",
                         "type": "homework"
                     }
                 ],
@@ -2645,7 +2650,8 @@
                         "type": "cheatsheet"
                     },
                     {
-                        "title": "Projekty (×○×○) - odkaz bude doplněn",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2026-brno-podzim-utery&session=exc",
+                        "title": "Projekty (×○×○)",
                         "type": "homework"
                     }
                 ],
@@ -2705,7 +2711,8 @@
                         "type": "special"
                     },
                     {
-                        "title": "Projekty (✕✕✕) - odkaz bude doplněn",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2026-brno-podzim-utery&session=test",
+                        "title": "Projekty (✕✕✕)",
                         "type": "homework"
                     }
                 ],
@@ -2765,7 +2772,8 @@
                         "type": "cheatsheet"
                     },
                     {
-                        "title": "Projekty – [🐶🐱🐰🐍] - odkaz bude doplněn",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2026-brno-podzim-utery&session=list",
+                        "title": "Projekty – [🐶🐱🐰🐍]",
                         "type": "homework"
                     }
                 ],
@@ -2825,7 +2833,8 @@
                         "type": "special"
                     },
                     {
-                        "title": "Projekty (⚔️) - odkaz bude doplněn",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2026-brno-podzim-utery&session=file",
+                        "title": "Projekty (⚔️)",
                         "type": "homework"
                     }
                 ],
@@ -2885,7 +2894,8 @@
                         "type": "cheatsheet"
                     },
                     {
-                        "title": "Projekty (💾) - odkaz bude doplněn",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2026-brno-podzim-utery&session=dict",
+                        "title": "Projekty (💾)",
                         "type": "homework"
                     }
                 ],
